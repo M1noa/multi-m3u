@@ -1,7 +1,7 @@
-http://source.strictv.com/get.php?username=Michael88&password=Michael88&type=m3u_plus 264mb
-http://dragone.top:25461/get.php?username=ujyJqbY6ULrh&password=qaeET7S9v3kA&type=m3u_plus 33mb
-http://toh-users.xyz:8080/get.php?username=45515346&password=23923917&type=m3u_plus 23mb
-http://fastopen.live:8080/get.php?username=jJ2Z5edT4o&password=5UgoulSTpr&type=m3u_plus 19mb
+http://source.strictv.com/get.php?username=Michael88&password=Michael88&type=m3u_plus
+http://dragone.top:25461/get.php?username=ujyJqbY6ULrh&password=qaeET7S9v3kA&type=m3u_plus
+http://toh-users.xyz:8080/get.php?username=45515346&password=23923917&type=m3u_plus
+http://fastopen.live:8080/get.php?username=jJ2Z5edT4o&password=5UgoulSTpr&type=m3u_plus
 http://tv.pro-ott.com/get.php?username=gradesk&password=1234567890&type=m3u_plus
 http://tvpro.vprotv.com:25443/get.php?username=MAGQI21Lv7ktk&password=7S1ZjcNWCB&type=m3u_plus
 http://ex.guteex.com:8000/get.php?username=sabankayapinar0504&password=oWLBKTz2FRcZcPEl&type=m3u_plus
