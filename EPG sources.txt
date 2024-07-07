@@ -9,4 +9,3 @@ http://fenervolvo1907.mochaiptv.xyz:8000/xmltv.php?username=servet1907&password=
 http://first.wellbalancer.xyz/xmltv.php?username=LROBYAMICOMIMMO&password=19&type=xml
 http://firstiptv.xyz:8080/xmltv.php?username=HalilSimsek&password=jJhVcVVsGebD&type=xml
 http://g-med.xyz:25461/xmltv.php?username=zec@zorislav&password=dxb1Arnumn&type=xml
-https://github.com/notanewbie/LegalStream/raw/master/EPG.xml
