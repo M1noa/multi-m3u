@@ -1,4 +1,5 @@
 http://source.strictv.com/get.php?username=Michael88&password=Michael88&type=m3u_plus
+http://source.strictv.com/get.php?username=herve2023&password=herve2023&type=m3u_plus
 http://dragone.top:25461/get.php?username=ujyJqbY6ULrh&password=qaeET7S9v3kA&type=m3u_plus
 http://toh-users.xyz:8080/get.php?username=45515346&password=23923917&type=m3u_plus
 http://fastopen.live:8080/get.php?username=jJ2Z5edT4o&password=5UgoulSTpr&type=m3u_plus
