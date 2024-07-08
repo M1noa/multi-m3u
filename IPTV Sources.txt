@@ -8,6 +8,7 @@ http://tvpro.vprotv.com:25443/get.php?username=MAGQI21Lv7ktk&password=7S1ZjcNWCB
 http://ex.guteex.com:8000/get.php?username=sabankayapinar0504&password=oWLBKTz2FRcZcPEl&type=m3u_plus
 http://g-med.xyz:25461/get.php?username=zec@zorislav&password=dxb1Arnumn&type=m3u_plus
 http://yesimes.oknirvana.club:8880/get.php?username=D12m2143&password=75992279&type=m3u_plus
+http://nisay.xyz:8080/get.php?username=menderessevim&password=9bmLhM2e0UYim0&type=m3u_plus
 http://firstiptv.xyz:8080/get.php?username=HalilSimsek&password=jJhVcVVsGebD&type=m3u_plus
 http://fenervolvo1907.mochaiptv.xyz:8000/get.php?username=servet1907&password=mustafa1907&type=m3u_plus
 http://first.wellbalancer.xyz:80/get.php?username=LROBYAMICOMIMMO&password=19&type=m3u_plus
